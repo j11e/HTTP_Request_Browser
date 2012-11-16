@@ -1,0 +1,7 @@
+{
+  "name": "HTTP Request Browser",
+  "version": 0.0.1,
+  "author": "JD Innocenti <jd.innocenti@gmail.com>",
+  "description": "Useless utility to browse through the fields of Node.js' HTTP request object.",
+  "main": "startBrowserServer.js",
+}
